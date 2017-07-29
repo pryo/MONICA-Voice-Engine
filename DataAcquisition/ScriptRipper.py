@@ -51,10 +51,12 @@ def pageFormatChecker(soup):
 def filePipeline(pageSoup,linkTag,relativePath):
     path = os.path.join(os.path.dirname(__file__),relativePath)
     #open a file according to the episode number and store the list of line in CSV format
-    episodeNumberPattern =re.compile("\b[0-9]{3,4}")
+    #episodeNumberPattern =re.compile("\b[0-9]{3,4}")
 
-    matchObj = episodeNumberPattern.match(unicode(linkTag.string))
-    fileName = matchObj.string
+    #matchObj = episodeNumberPattern.match(unicode(linkTag.string))
+
+    #fileName = matchObj.string
+    fileName = re.search("[0-9]{3,4}",linkTag.string).group(0)
     with open(path+fileName+'.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=' ')
         lineList = pageSoup.find_all(pageFilter)
