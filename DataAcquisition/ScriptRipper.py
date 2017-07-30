@@ -5,11 +5,10 @@ import re
 import csv
 import os
 
-from numpy import unicode
 
 
 def makeSoup(url):
-    return BeautifulSoup(req.urlopen(url).read().decode('latin-1'))
+    return BeautifulSoup(req.urlopen(url).read())
 
 def findLinkList(soup):
     return soup.find_all(linkFilter)
@@ -57,13 +56,30 @@ def filePipeline(pageSoup,linkTag,relativePath):
 
     #fileName = matchObj.string
     fileName = re.search("[0-9]{3,4}",linkTag.string).group(0)
-    with open(path+fileName+'.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile, delimiter=' ')
+    with open(path+fileName, 'w') as csvfile:
+        writer = csv.writer(csvfile)
+        #writer = DC.UnicodeWriter(csvfile)
         lineList = pageSoup.find_all(pageFilter)
         for line in lineList:
             name = line.contents[0].string
-            script = line.string
-            writer.writerow([name, script])
+            try:
+
+                script = line.contents[1]
+
+            except IndexError:
+                scritp = ' '
+            try:
+                # try:
+                #     script.replace("'"," ")
+                # except TypeError:
+                #     script = ''
+                #script.replace("\xc2\x92", " ")
+                writer.writerow([name, script.encode("latin-1")])
+                #writer.writerow([name, script.encode("utf-8")])
+            except UnicodeEncodeError:
+                print(script.encode("latin-1"))
+            #script.replace("'"," ")
+
 
 
 if __name__ =="__main__":
