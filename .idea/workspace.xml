@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24f9979a-452f-4f3e-a5cb-bb2d0c848e1b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAcquisition/SoundTrackRipper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAcquisition/rename.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/101.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/102.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/103.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/104.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/105.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/106.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/107.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/108.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/109.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/110.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/111.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/112.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/113.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/114.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/115.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/117.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/118.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/119.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/120.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/121.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/122.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/123.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/124.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/201.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/202.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/203.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/204.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/205.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/206.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/301.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/303.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/304.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/305.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/306.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/307.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/308.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/309.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Scripts/310.csv" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataAcquisition/ScriptRipper.py" afterPath="$PROJECT_DIR$/DataAcquisition/ScriptRipper.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ScriptRipper.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ScriptRipper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataAcquisition/ScriptRipper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="10" />
               <folding>
                 <element signature="e#1#30#0" expanded="true" />
               </folding>
@@ -88,15 +47,15 @@
       <file leaf-file-name="rename.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataAcquisition/rename.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="160">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="13" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SoundTrackRipper.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataAcquisition/SoundTrackRipper.py">
+      <file leaf-file-name="ffmpeg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../python-video-converter/converter/ffmpeg.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -167,8 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,6 +182,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -523,13 +482,13 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27891654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26793557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26086956" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32763976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -566,6 +525,40 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataAcquisition/ScriptRipper.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAcquisition/rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAcquisition/SoundTrackRipper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-video-converter/converter/ffmpeg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAcquisition/ScriptRipper.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -578,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6160">
           <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,59 +619,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Scripts/104.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-451">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Scripts/307.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Scripts/917.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Scripts/111.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-109">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Scripts/709.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Scripts/901.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4372">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Scripts/104.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/Scripts/307.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/Scripts/917.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/Scripts/111.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/Scripts/709.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/Scripts/901.csv" />
     <entry file="file://$PROJECT_DIR$/Data/Scripts/109">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="88" column="31" lean-forward="false" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,19 +662,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataAcquisition/DefinedCSV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAcquisition/DefinedCSV.py" />
     <entry file="file://$PROJECT_DIR$/Data/Scripts/713">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="48" column="53" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-240">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -743,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,7 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2932">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,24 +709,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataAcquisition/ScriptRipper.py">
+    <entry file="file://$PROJECT_DIR$/../python-video-converter/converter/ffmpeg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAcquisition/rename.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -802,6 +725,24 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAcquisition/rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="13" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAcquisition/ScriptRipper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
